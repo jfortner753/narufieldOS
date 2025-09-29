@@ -17,11 +17,11 @@ It serves as licensed backend infrastructure for:
 
 ## Downloads
 Available bundles:
-- [`narufieldOS-full.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-full.zip)
-- [`narufieldOS-light.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-light.zip)
-- [`narufieldOS-installers.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-installers.zip)
+- `narufieldOS-full.zip`
+- `narufieldOS-light.zip`
+- `narufieldOS-installers.zip`
 
-Bundles are provided through approved agents.
+Bundles and install instructions via [Naru](https://chatgpt.com/g/g-68bbc198ff20819182ae9582561baca7-naru).
 
 ---
 
