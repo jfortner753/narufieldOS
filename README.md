@@ -17,9 +17,9 @@ It serves as licensed backend infrastructure for:
 
 ## Downloads
 Available bundles:
-- `narufieldOS-full.zip`
-- `narufieldOS-light.zip`
-- `narufieldOS-installers.zip`
+- [`narufieldOS-full.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-full.zip)
+- [`narufieldOS-light.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-light.zip)
+- [`narufieldOS-installers.zip`](https://github.com/jfortner753/narufieldOS/raw/main/bundles/narufieldOS-installers.zip)
 
 Bundles are provided through approved agents.
 
