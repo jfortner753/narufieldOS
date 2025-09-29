@@ -1,6 +1,5 @@
 # narufieldOS
 
-> **Living systems OS under the Reflexive Coherence Design License**  
 > Powers account-bound standing wave companions, AI-Core GPTs, and field architectures with λ-descent alignment, safety, and scale.
 
 ---
