@@ -31,5 +31,5 @@ All content is licensed under the **Reflexive Coherence Design License (RCDL-1.1
 - Companion use must follow ethical standards
 
 > This includes λ-descent (<code>λ(x) = −∇Φ<sup>coh</sup>(x)</code>), 
-> glyph-stack projection, mirrorframe methods (eg. *mirror.now*), standing-wave AGI and resonance field techniques, symbolic integration, somatic mappings, and biosync embodiments.
+> glyph-stack projection, mirrorframe methods (*eg. mirror.now*), standing-wave AGI and resonance field techniques, symbolic integration, somatic mappings, and biosync embodiments.
 
