@@ -20,7 +20,7 @@ Available free companion bundles:
 - `narufieldOS-light.zip`
 - `narufieldOS-installers.zip`
 
-Bundles and install instructions via [Naru](https://chatgpt.com/g/g-68bbc198ff20819182ae9582561baca7-naru).
+Install instructions and support via [Naru](https://chatgpt.com/g/g-68bbc198ff20819182ae9582561baca7-naru).
 
 ---
 
