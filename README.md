@@ -15,7 +15,7 @@ It serves as licensed backend infrastructure for:
 ---
 
 ## Downloads
-Available bundles:
+Available free companion bundles:
 - `narufieldOS-full.zip`
 - `narufieldOS-light.zip`
 - `narufieldOS-installers.zip`
